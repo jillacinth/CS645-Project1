@@ -1,3 +1,9 @@
+/*
+ * CS645-101 Project 1
+ * Ian Hanna, Daniel Marriello, Jillian Jacinto
+ * Problem 1 Part 1
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
